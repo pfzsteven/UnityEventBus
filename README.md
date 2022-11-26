@@ -4,7 +4,9 @@
 
 # 使用说明
 
-Unity示例: 
+1.导入 [UnityEventBus.dll](https://github.com/pfzsteven/UnityEventBus/blob/main/UnityEventBus.dll) 文件到工程里
+
+2.Unity使用示例: 
 
 ```c#
 public class SomeMonobehaviour : Monobehaviour {
