@@ -1,8 +1,9 @@
 # Usage
 
-1.Download [UnityEventBus.dll](https://github.com/pfzsteven/UnityEventBus/blob/main/UnityEventBus.dll) and import into the `Asset/Plugins` folder.
+## Download
+Download [UnityEventBus.dll](https://github.com/pfzsteven/UnityEventBus/blob/main/UnityEventBus.dll) and import into the `Asset/Plugins` folder.
 
-2. Example
+## Example
 
 ```c# 
 {
